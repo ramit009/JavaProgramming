@@ -10,7 +10,7 @@ public class TesttwoResults {
 	public void TesttwoNumbers() {
 		TestResults checkNumbers=new TestResults();
 		int result=checkNumbers.addTwoNumbers(12, 13);
-		assertEquals(25, result);
+		assertEquals(21, result);
 		
 	}
 
