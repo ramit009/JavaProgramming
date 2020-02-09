@@ -1,4 +1,4 @@
-package Basics;
+package programmingKnowldege;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package Basics;
+package programmingKnowldege;
 
 class Super {
 	int j,k;

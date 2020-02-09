@@ -1,5 +1,6 @@
-package Example;
-import Basics.Student;
+package programmingKnowldege;
+
+import programmingKnowldege.Student;
 
 public class Example {
 
